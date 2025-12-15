@@ -1,0 +1,1 @@
+web 接口方式，利用glb插件转换solidworks文件到glb格式
